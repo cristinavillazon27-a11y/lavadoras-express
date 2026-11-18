@@ -1,0 +1,17 @@
+{
+  "name": "lavadoras-express",
+  "version": "1.0.0",
+  "description": "Sistema de Gestión y Alquiler de Lavadoras por Horas - SENA ADSO",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["sena", "alquiler", "lavadoras", "mysql", "express"],
+  "author": "Lavadoras Express",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.7"
+  }
+}
